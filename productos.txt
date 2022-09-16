@@ -1,0 +1,22 @@
+[
+ {
+   "id": 1,
+   "timestamp":"",
+   "nombre": "Escuadra",
+   "descripcion": "",
+   "codigo": 123,
+   "foto" : "",
+   "precio": 10,
+   "stock":10
+ },
+  {
+   "id": 2,
+   "timestamp":"",
+   "nombre": "Regla",
+   "descripcion": "",
+   "codigo": 123,
+   "foto" : "",
+   "precio": 10,
+   "stock":10
+ }
+]

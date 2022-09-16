@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2,
+    "timestamp": "19/10/2021 00:19:36",
+    "productos": []
+  },
+  {
+    "id": 3,
+    "timestamp": "19/10/2021 00:21:40",
+    "productos": []
+  },
+  {
+    "id": 1,
+    "timestamp": "",
+    "productos": [
+      {
+        "id": 1,
+        "timestamp": "10:15am",
+        "name": "testt",
+        "description": "ASDADS",
+        "code": "A151AS5",
+        "image": "randompog",
+        "price": "400$",
+        "stock": "2"
+      },
+      {
+        "id": 2,
+        "timestamp": "10:15am",
+        "name": "testt",
+        "description": "ASDADS",
+        "code": "A151AS5",
+        "image": "randompog",
+        "price": "400$",
+        "stock": "2"
+      }
+    ]
+  }
+]
